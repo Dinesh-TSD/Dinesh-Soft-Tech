@@ -1,0 +1,70 @@
+.Register{
+    height: 100%;
+    width: 300px;
+    margin-top: 40px;
+    margin-left: 400px;
+}
+.form-r{
+    background-color: rgb(55, 249, 252);
+    width: 300px;
+    height: 100%;
+    border-radius: 10px;
+}
+.form-r h1{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.form-input-r p{
+    font-size: 0.8rem;
+    color: rgb(255, 238, 0);
+}
+.form-label-r{
+    display: flex;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    padding-left: 2px;
+    margin-top: 20px;
+}
+.form-inputs-r{
+    padding-left: 40px;
+}
+.form-input-r{
+    margin-top: 6px;
+    outline: none;
+    padding-left: 10px;
+    height: 30px;
+    width: 200px;
+    border-radius: 5px;
+    border: none;
+}
+.form-input-btn-r{
+    margin-top: 25px;
+    margin-left: 40px;
+    margin-bottom: 10px;
+    font-size: 17px;
+    width: 210px;
+    height: 30px;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+}
+.form-input-btn-r:hover{
+    background-color: rgb(17, 0, 255);
+}
+.form-new-user-r{
+    display: flex;
+    margin-top: 10px;
+    color: white;
+    justify-content: center;
+}
+.sign-link-r{
+    color: white;
+    margin-left: 5px;
+    text-decoration: none;
+}
